@@ -340,4 +340,5 @@ def grid_search(symbol='BTCUSDT', total_bars=5000):
 
 # Example usage
 if __name__ == "__main__":
-    grid_search(symbol='LTCUSDT', total_bars=50000)  # This will take time due to many combos; reduce grid for testing
+
+    grid_search(symbol='LTCUSDT', total_bars=5000)  # This will take time due to many combos; reduce grid for testing
