@@ -1,0 +1,19 @@
+# Core
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Async HTTP
+aiohttp>=3.9.0
+
+# Binance (for backtest data)
+python-binance>=1.0.19
+
+# Visualization
+matplotlib>=3.7.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Logging
+colorlog>=6.7.0
