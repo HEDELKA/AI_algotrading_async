@@ -152,6 +152,13 @@ USE_TESTNET=true
 - [Telegram канал автора](https://t.me/crypto_maniacdt)
 - [Видео-курс](https://www.youtube.com/watch?v=OWsum6xcNvM)
 
+## 🙏 Credits
+
+Этот проект основан на:
+- **Оригинальный репозиторий**: [roman-boop/AI_algotrading](https://github.com/roman-boop/AI_algotrading)
+- **Видео-курс**: [YouTube](https://www.youtube.com/watch?v=OWsum6xcNvM)
+- **Автор стратегии**: [@crypto_maniacdt](https://t.me/crypto_maniacdt)
+
 ## 📝 Лицензия
 
 MIT License
